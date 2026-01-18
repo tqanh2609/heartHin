@@ -6,5 +6,5 @@ import react from '@vitejs/plugin-react';
 export default defineConfig({
   plugins: [react()],
   // Set base to your repository name: /repo-name/
-  base: '/heart_web/',
+  base: '/heartHin/',
 });
